@@ -1,0 +1,11 @@
+LCD.c:20:6:TextLCD_Strobe	8	static
+LCD.c:28:6:TextLCD_Cmd	16	static
+LCD.c:36:6:TextLCD_Data	16	static
+LCD.c:46:6:TextLCD_Init	16	static
+LCD.c:72:6:TextLCD_Home	8	static
+LCD.c:77:6:TextLCD_Clear	8	static
+LCD.c:82:6:TextLCD_Position	8	static
+LCD.c:87:6:TextLCD_Putchar	8	static
+LCD.c:92:6:TextLCD_PutInt	16	static
+LCD.c:102:6:TextLCD_Puts	16	static
+LCD.c:115:6:TextLCD_Printf	0	static

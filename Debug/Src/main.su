@@ -1,0 +1,10 @@
+main.c:202:6:SystemClock_Config	96	static
+main.c:438:6:HAL_ADC_ConvCpltCallback	8	static
+main.c:455:9:Read_DHT11_bit_raw	24	static
+main.c:476:9:Read_DHT11	24	static
+main.c:520:6:printNumber	24	dynamic
+main.c:530:6:calcTemps	8	static
+main.c:534:6:checkTemp	16	static
+main.c:550:6:setTemp	8	static
+main.c:122:5:main	64	static
+main.c:564:6:_Error_Handler	0	static
